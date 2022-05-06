@@ -1,0 +1,14 @@
+- No site
+- Criar o parallax OK
+** ↑ DESCOBRI QUE NO PARALLAX NÃO DÁ PARA FAZER ANIMAÇÃO
+
+- Organizar e criar todas as páginas de login OK
+- Pensar em um footer OK
+- Juntar o conteúdo :
+-Parallax ok
+-Main ok
+-Footer ok
+-Criar uma nova animação com o nome da escola na página main ok
+
+
+
